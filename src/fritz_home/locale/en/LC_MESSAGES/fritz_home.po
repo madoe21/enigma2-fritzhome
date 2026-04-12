@@ -1,0 +1,211 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: fritz_home 1.0.0\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "All"
+msgstr "All"
+
+msgid "Battery"
+msgstr "Battery"
+
+msgid "Battery & status"
+msgstr "Battery & status"
+
+msgid "Boost"
+msgstr "Boost"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Close"
+msgstr "Close"
+
+msgid "Connection"
+msgstr "Connection"
+
+msgid "Connection test failed"
+msgstr "Connection test failed"
+
+msgid "Connection test successful"
+msgstr "Connection test successful"
+
+msgid "Consumption"
+msgstr "Consumption"
+
+msgid "Current"
+msgstr "Current"
+
+msgid "Data source"
+msgstr "Data source"
+
+msgid "Device info"
+msgstr "Device info"
+
+msgid "Energy metering"
+msgstr "Energy metering"
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Extra"
+msgstr "Extra"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Firmware"
+msgstr "Firmware"
+
+msgid "Fritz!Box Host/IP"
+msgstr "Fritz!Box Host/IP"
+
+msgid "Fritz!Box Settings"
+msgstr "Fritz!Box Settings"
+
+msgid "Fritz!Box Smart Home Monitor & Control"
+msgstr "Fritz!Box Smart Home Monitor & Control"
+
+msgid "FritzHome - Smart Home"
+msgstr "FritzHome - Smart Home"
+
+msgid "FritzHome Information"
+msgstr "FritzHome Information"
+
+msgid "Group"
+msgstr "Group"
+
+msgid "Humidity"
+msgstr "Humidity"
+
+msgid "Information"
+msgstr "Information"
+
+msgid "Loading..."
+msgstr "Loading..."
+
+msgid "Locked"
+msgstr "Locked"
+
+msgid "Main menu"
+msgstr "Main menu"
+
+msgid "Measured"
+msgstr "Measured"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "No"
+msgstr "No"
+
+msgid "No devices found"
+msgstr "No devices found"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Please configure the Fritz!Box connection first"
+msgstr "Please configure the Fritz!Box connection first"
+
+msgid "Port"
+msgstr "Port"
+
+msgid "Power"
+msgstr "Power"
+
+msgid "Product"
+msgstr "Product"
+
+msgid "Readings"
+msgstr "Readings"
+
+msgid "Refresh"
+msgstr "Refresh"
+
+msgid "Room temperature"
+msgstr "Room temperature"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Sensors"
+msgstr "Sensors"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Settings saved"
+msgstr "Settings saved"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Switch state"
+msgstr "Switch state"
+
+msgid "Switches"
+msgstr "Switches"
+
+msgid "Target"
+msgstr "Target"
+
+msgid "Temperature"
+msgstr "Temperature"
+
+msgid "Test connection"
+msgstr "Test connection"
+
+msgid "Thermostats"
+msgstr "Thermostats"
+
+msgid "Toggle"
+msgstr "Toggle"
+
+msgid "Turn off"
+msgstr "Turn off"
+
+msgid "Turn on"
+msgstr "Turn on"
+
+msgid "Updated"
+msgstr "Updated"
+
+msgid "Username"
+msgstr "Username"
+
+msgid "Using cached data"
+msgstr "Using cached data"
+
+msgid "Vacation schedules"
+msgstr "Vacation schedules"
+
+msgid "Window open"
+msgstr "Window open"
+
+msgid "Yes"
+msgstr "Yes"
+
+msgid "active"
+msgstr "active"
+
+msgid "aus"
+msgstr "off"
+
+msgid "ein"
+msgstr "on"
+
+msgid "n/a"
+msgstr "n/a"
+
+msgid "nicht verbunden"
+msgstr "not connected"
+
+msgid "unbekannt"
+msgstr "unknown"
+
+msgid "verbunden"
+msgstr "connected"

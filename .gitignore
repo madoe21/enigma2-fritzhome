@@ -1,0 +1,5 @@
+.env
+build/
+*.ipk
+*.tar.gz
+src/FritzHome/res/

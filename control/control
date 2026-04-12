@@ -1,0 +1,11 @@
+Package: enigma2-plugin-extensions-fritz-home
+Version: 1.0.0
+Section: base
+Priority: optional
+Architecture: all
+Maintainer: madoe21 <https://github.com/madoe21>
+Description: FritzHome – Fritz!Box Smart Home Monitor & Control for Enigma2
+ Shows all Fritz!Box smart home devices (FRITZ!DECT) with temperature,
+ humidity, switch state and power readings. Supports controlling sockets
+ and adjusting thermostat target temperatures. Uses the AVM AHA HTTP API.
+Depends: enigma2

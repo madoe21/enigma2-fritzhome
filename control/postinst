@@ -1,0 +1,10 @@
+#!/bin/sh
+set -e
+
+PLUGIN_DIR="/usr/lib/enigma2/python/Plugins/Extensions/fritz_home"
+
+if [ -d "$PLUGIN_DIR" ]; then
+    chmod -R 755 "$PLUGIN_DIR" || true
+fi
+
+exit 0

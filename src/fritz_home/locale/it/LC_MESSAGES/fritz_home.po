@@ -1,0 +1,211 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: fritz_home 1.0.0\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "All"
+msgstr "Tutti"
+
+msgid "Battery"
+msgstr "Batteria"
+
+msgid "Battery & status"
+msgstr "Batteria e stato"
+
+msgid "Boost"
+msgstr "Boost"
+
+msgid "Cancel"
+msgstr "Annulla"
+
+msgid "Close"
+msgstr "Chiudi"
+
+msgid "Connection"
+msgstr "Connessione"
+
+msgid "Connection test failed"
+msgstr "Test di connessione fallito"
+
+msgid "Connection test successful"
+msgstr "Test di connessione riuscito"
+
+msgid "Consumption"
+msgstr "Consumo"
+
+msgid "Current"
+msgstr "Attuale"
+
+msgid "Data source"
+msgstr "Fonte dati"
+
+msgid "Device info"
+msgstr "Info dispositivo"
+
+msgid "Energy metering"
+msgstr "Misurazione energia"
+
+msgid "Error"
+msgstr "Errore"
+
+msgid "Extra"
+msgstr "Extra"
+
+msgid "Filter"
+msgstr "Filtro"
+
+msgid "Firmware"
+msgstr "Firmware"
+
+msgid "Fritz!Box Host/IP"
+msgstr "Host/IP Fritz!Box"
+
+msgid "Fritz!Box Settings"
+msgstr "Impostazioni Fritz!Box"
+
+msgid "Fritz!Box Smart Home Monitor & Control"
+msgstr "Monitoraggio e controllo Smart Home Fritz!Box"
+
+msgid "FritzHome - Smart Home"
+msgstr "FritzHome - Casa intelligente"
+
+msgid "FritzHome Information"
+msgstr "Informazioni FritzHome"
+
+msgid "Group"
+msgstr "Gruppo"
+
+msgid "Humidity"
+msgstr "Umidità"
+
+msgid "Information"
+msgstr "Informazioni"
+
+msgid "Loading..."
+msgstr "Caricamento..."
+
+msgid "Locked"
+msgstr "Bloccato"
+
+msgid "Main menu"
+msgstr "Menu principale"
+
+msgid "Measured"
+msgstr "Misurato"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "No"
+msgstr "No"
+
+msgid "No devices found"
+msgstr "Nessun dispositivo trovato"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Please configure the Fritz!Box connection first"
+msgstr "Configura prima la connessione Fritz!Box"
+
+msgid "Port"
+msgstr "Porta"
+
+msgid "Power"
+msgstr "Potenza"
+
+msgid "Product"
+msgstr "Prodotto"
+
+msgid "Readings"
+msgstr "Letture"
+
+msgid "Refresh"
+msgstr "Aggiorna"
+
+msgid "Room temperature"
+msgstr "Temperatura ambiente"
+
+msgid "Save"
+msgstr "Salva"
+
+msgid "Sensors"
+msgstr "Sensori"
+
+msgid "Settings"
+msgstr "Impostazioni"
+
+msgid "Settings saved"
+msgstr "Impostazioni salvate"
+
+msgid "Status"
+msgstr "Stato"
+
+msgid "Switch state"
+msgstr "Stato interruttore"
+
+msgid "Switches"
+msgstr "Interruttori"
+
+msgid "Target"
+msgstr "Obiettivo"
+
+msgid "Temperature"
+msgstr "Temperatura"
+
+msgid "Test connection"
+msgstr "Prova connessione"
+
+msgid "Thermostats"
+msgstr "Termostati"
+
+msgid "Toggle"
+msgstr "Commuta"
+
+msgid "Turn off"
+msgstr "Spegni"
+
+msgid "Turn on"
+msgstr "Accendi"
+
+msgid "Updated"
+msgstr "Aggiornato"
+
+msgid "Username"
+msgstr "Nome utente"
+
+msgid "Using cached data"
+msgstr "Uso dati in cache"
+
+msgid "Vacation schedules"
+msgstr "Programmi vacanza"
+
+msgid "Window open"
+msgstr "Finestra aperta"
+
+msgid "Yes"
+msgstr "Sì"
+
+msgid "active"
+msgstr "attivo"
+
+msgid "aus"
+msgstr "spento"
+
+msgid "ein"
+msgstr "acceso"
+
+msgid "n/a"
+msgstr "n/d"
+
+msgid "nicht verbunden"
+msgstr "non connesso"
+
+msgid "unbekannt"
+msgstr "sconosciuto"
+
+msgid "verbunden"
+msgstr "connesso"

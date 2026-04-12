@@ -1,0 +1,35 @@
+@fritzHost = {{$dotenv FRITZ_HOST}}
+@fritzUser = {{$dotenv FRITZ_USER}}
+@fritzPassword = {{$dotenv FRITZ_PASSWORD}}
+
+### 1) Get SID challenge (first step of AHA login)
+# @name getChallenge
+GET http://{{fritzHost}}/login_sid.lua
+Accept: application/xml
+
+### 2) AHA overview – list all smart home devices
+# Requires valid SID – replace REPLACE_WITH_SID after authenticating via Python code
+@sid = REPLACE_WITH_SID
+GET http://{{fritzHost}}/webservices/homeautoswitch.lua?ain=&switchcmd=getdevicelistinfos&sid={{sid}}
+Accept: application/xml
+
+### 3) Get temperature of a specific device (AIN = actor identification number)
+@ain = REPLACE_WITH_AIN
+GET http://{{fritzHost}}/webservices/homeautoswitch.lua?ain={{ain}}&switchcmd=gettemperature&sid={{sid}}
+Accept: text/plain
+
+### 4) Get power consumption of a specific device
+GET http://{{fritzHost}}/webservices/homeautoswitch.lua?ain={{ain}}&switchcmd=getpower&sid={{sid}}
+Accept: text/plain
+
+### 5) Switch a socket on
+GET http://{{fritzHost}}/webservices/homeautoswitch.lua?ain={{ain}}&switchcmd=setswitchon&sid={{sid}}
+Accept: text/plain
+
+### 6) Switch a socket off
+GET http://{{fritzHost}}/webservices/homeautoswitch.lua?ain={{ain}}&switchcmd=setswitchoff&sid={{sid}}
+Accept: text/plain
+
+### 7) Set thermostat target temperature (param = degrees * 2, e.g. 42 = 21.0°C)
+GET http://{{fritzHost}}/webservices/homeautoswitch.lua?ain={{ain}}&switchcmd=sethkrtsoll&param=42&sid={{sid}}
+Accept: text/plain

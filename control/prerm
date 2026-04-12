@@ -1,0 +1,7 @@
+#!/bin/sh
+set -e
+# Only remove settings on real uninstall, not on upgrade/reinstall
+if [ "$1" = "remove" ] && [ -f /etc/enigma2/settings ]; then
+    sed -i '/^config\.plugins\.fritzhome\./d' /etc/enigma2/settings || true
+fi
+exit 0
