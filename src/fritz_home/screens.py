@@ -1163,7 +1163,7 @@ class FritzHomeSettingsScreen(Screen, ConfigListScreen):
         username = (config.plugins.fritzhome.username.value or "").strip()
         password = (config.plugins.fritzhome.password.value or "").strip()
 
-        from .api import FritzHomeApiClient
+        from .core.api import FritzHomeApiClient
         client = FritzHomeApiClient(host=host, port=port, username=username, password=password)
         ok, error = client.ping()
         if ok:

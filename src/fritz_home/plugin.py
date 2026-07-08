@@ -27,9 +27,9 @@ from Plugins.Plugin import PluginDescriptor
 from Tools.Directories import SCOPE_PLUGINS, resolveFilename
 
 from . import _
-from .api import FritzHomeApiClient
+from .core.api import FritzHomeApiClient
 from .screens import FritzHomeMainScreen, FritzHomeSettingsScreen
-from .store import FritzHomeStore
+from .core.store import FritzHomeStore
 
 SETTINGS_FILE = "/etc/enigma2/settings"
 USE_ASPECT_ICON_VARIANTS = True
