@@ -2,6 +2,8 @@
 
 [![Built with aiflow](https://img.shields.io/badge/built%20with-aiflow-6b46c1)](https://github.com/cyber93de/aiflow)
 
+📖 [Project page & install instructions](https://madoe21.github.io/enigma2-fritzhome/)
+
 Fritz!Box Smart Home monitor and control plugin for Enigma2. Shows all
 FRITZ!DECT smart home devices with temperature, humidity, switch state and
 power readings. Supports controlling sockets and adjusting thermostat target
