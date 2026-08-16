@@ -3,3 +3,6 @@ build/
 *.ipk
 *.tar.gz
 src/FritzHome/res/
+
+# aiflow project-update keeps your customised file as <file>.bak before replacing it
+*.bak
